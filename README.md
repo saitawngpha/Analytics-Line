@@ -6,3 +6,8 @@ Custom Line Graph View with SwiftUI
 
 ## Reference
 [Here](https://www.youtube.com/watch?v=uU-le4KHmow)
+
+## Buy me coffee ☕️
+| Shiba      | BTC      | ETH      | Doge |
+|------------|-------------|-------------|-------------|
+| <img src="donate/shib.JPG" width="100%"> | <img src="donate/btc.JPG" width="100%"> | <img src="donate/eth.JPG" width="100%"> | <img src="donate/doge.JPG" width="100%"> | 
